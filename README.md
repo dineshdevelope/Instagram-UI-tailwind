@@ -9,7 +9,6 @@ Instagram UI using Tailwind CSS
 - [Demo](#demo)
 - [Internship](#internship)
 - [Technologies Used](#technologies-used)
-- [Features](#features)
 
 ## Description
 
